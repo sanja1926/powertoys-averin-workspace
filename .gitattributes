@@ -1,0 +1,15 @@
+# This file is used to override language statistics
+# Generated on 2026-11-18
+*.jpeg binary
+*.json linguist-detectable=false
+
+*.htm linguist-vendored
+src/** linguist-detectable
+
+*.png binary
+
+* text=auto eol=lf
+
+docs/* linguist-vendored
+
+*.ts linguist-detectable
